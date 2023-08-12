@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal</h1>
+<h1 align="center" style="font-size: 36px;">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A enthusiastic learner from India</h3>
 
 - 🌱 I’m currently learning **Python,Html**
