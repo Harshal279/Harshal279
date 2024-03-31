@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Ghoradkar</h1>
 <h3 align="center">A enthusiastic learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal279&label=Profile%20views&color=0e75b6&style=flat-square" alt="harshal279" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshal279" alt="harshal279" /></a> </p>
-
 - 🌱 I’m currently learning **Python,Html**
 
 - 💬 Ask me about **Python**
