@@ -1,4 +1,4 @@
-<h1HI IAM HARSHAL GHORADKAR</h1>
+<h1><centre>HI IAM HARSHAL GHORADKAR</centre></h1>
 <h3 align="center">A enthusiastic learner from India</h3>
 
 - 🌱 currently learning **Python,Html**
